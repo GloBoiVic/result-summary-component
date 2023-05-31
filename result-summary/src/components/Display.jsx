@@ -1,4 +1,5 @@
 /* eslint-disable react/prop-types */
+// import Image from '../images/icon-memory.svg';
 
 export default function Display(props) {
   let secondaryClassName;
