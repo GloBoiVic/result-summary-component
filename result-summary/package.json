@@ -1,6 +1,7 @@
 {
   "name": "result-summary",
   "private": true,
+  "homepage": "https://globoivic.github.io/result-summary-component/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
